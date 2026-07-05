@@ -1,48 +1,56 @@
 <div align="center">
 
-  <!-- ১. N/SHIMU নামটা চলাচল করবে এবং কালার চেঞ্জ হবে -->
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    <h1><font color="#FF2E93">✨ 𝓝/𝓢𝓗𝓘𝓜𝓤 ✨</font></h1>
-  </marquee>
+<img src="https://i.imgur.com/ybKArLb.jpeg" width="100%" />
 
-  <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=65&duration=1800&pause=700&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=120&lines=👑+NURNOBI+❤️+SHIMU+👑" />
 
-  <!-- ২. YOU OR MY CRUSH -->
-  <h3><font color="#FF5733">💖 𝖄 his 𝕺𝖗 𝕸𝖞 𝕮𝖗𝖚𝖘𝖍 💖</font></h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&repeat=true&width=1400&height=100&lines=💖+VIP+LOVE+PROFILE+💖;🔥+TRUE+LOVE+NEVER+ENDS+🔥;👑+KING+AND+QUEEN+OF+LOVE+👑" />
 
-  <!-- ৩. ONE SITE LOVE -->
-  <h4><font color="#FFC300">💔 𝓞𝓷𝓮 𝓢𝓲𝓭𝓮 𝓛𝓸𝓿𝓮 💔</font></h4>
+---
 
-  <!-- ৪. ROCKY BHAI -->
-  <h2><font color="#00FFCC">🔥 𝑹𝑶𝑪𝑲𝒀 𝑩𝑯𝑨𝑰 🔥</font></h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=1400&lines=💞+WELCOME+TO+NURNOBI+AND+SHIMU+WORLD+💞" />
 
-  <!-- ۵. NURNOBI+SHIMU -->
-  <h3><font color="#FF33FF">👩‍❤️‍👨 𝓝𝓤𝓡𝓝𝓞𝓑𝓘 + 𝓢𝓧𝓘𝓜𝓤 👩‍❤️‍👨</font></h3>
+---
 
-  <!-- ৬. ROCKY BHAI OFFICIAL -->
-  <h4><font color="#3399FF">👑 𝔖𝔬𝔠𝔨𝔶 𝔅𝔥𝔞𝔦 𝔒𝔣𝔣𝔦𝔠𝔦𝔞𝔩 👑</font></h4>
+# 👑💖 NURNOBI ❤️ SHIMU 💖👑
 
-  <br>
-  <hr width="60%" color="#FF2E93">
-  <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=1400&height=110&lines=🌸+FOREVER+LOVE+COUPLE+🌸;💖+ENDLESS+LOVE+STORY+💖;🔥+LOVE+NEVER+ENDS+🔥" />
 
-  <!-- ৭. NOGOD -->
-  <p><b><font color="#FFA500">🔸 𝘕𝘖𝘎𝘖𝘋:</font></b> <code>01715559179</code></p>
+---
 
-  <!-- ৮. BIKASH -->
-  <p><b><font color="#FF1493">🔹 𝘉𝘒𝘈𝘚𝘏:</font></b> <code>01715559179</code></p>
+# 🌸 ABOUT OUR LOVE 🌸
 
-  <!-- ৯. ROCKET -->
-  <p><b><font color="#8A2BE2">🔸 𝘙𝘖𝘊𝘒𝘌𝘛:</font></b> <code>01715559179</code></p>
+```yaml
+Name         : NURNOBI
+Love         : SHIMU
+Status       : VIP LOVE COUPLE 👑
+Relationship : Endless Love 💖
+Dream        : Together Forever ✨
+Power        : Infinity Love ♾️
 
-  <br>
+---
 
-  <!-- ১০. Imgur লিংক এর ছবি -->
-  <img src="https://i.imgur.com/oDmgHyM.jpeg" alt="Love Image" width="420" style="border-radius: 15px; border: 3px solid #FF2E93; margin: 20px 0;"/>
+💌 LOVE RHYMES 💌
 
-  <br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=FF1493&center=true&vCenter=true&width=1400&lines=💖+নুরনবী+বলে+শিমুকে+তুমি+আমার+প্রাণ+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=1400&lines=🌸+তোমাকে+ছাড়া+অসম্পূর্ণ+আমার+জান+🌸" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1400&lines=💞+শিমুর+হাসিতে+লুকিয়ে+নুরনবীর+সুখ+💞" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=1400&lines=👑+দুজনের+ভালোবাসা+থাকবে+সারাজীবন+👑" />---
 
-  <!-- ১১. ভালোবাসার ক্যাপশন -->
-  <p><i><b><font color="#FF6347">"হৃদয়ের সবটুকু অনুভূতি শুধু তোমারই জন্য, যেখানে তুমিহীন প্রতিটি মুহূর্ত যেন এক একটা দীর্ঘশ্বাস। হাজারো মানুষের ভিড়েও এই মন শুধু তোমাকেই খোঁজে।" 🌹</font></b></i></p>
+🌺 LOVE STORY 🌺
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3200&pause=800&color=FF00FF&center=true&vCenter=true&width=1400&lines=✨+দুইটা+হৃদয়+একটা+ভালোবাসা+✨" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=1400&lines=💖+এক+হৃদয়ে+দুইজন+মানুষ+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3200&pause=800&color=ADFF2F&center=true&vCenter=true&width=1400&lines=🌸+ভালোবাসা+কখনো+শেষ+হবে+না+🌸" />---
+
+🔥 VIP LOVE STATUS 🔥
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2200&pause=700&color=FF4500&center=true&vCenter=true&width=1400&lines=👑+OFFICIAL+VIP+LOVE+PROFILE+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=1400&lines=💖+NURNOBI+❤️+SHIMU+FOREVER+💖" />---
+
+📱 CONTACT SECTION 📱
+
+IMO       : 01715559179
+WhatsApp  : 01715559179
+Contact   : 09638027945
+
+---
+
+🌸 FINAL LOVE MESSAGE 🌸
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2200&pause=700&color=FF1493&center=true&vCenter=true&width=1400&lines=💖+TRUE+LOVE+IS+FOREVER+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=1400&lines=👑+NURNOBI+❤️+SHIMU+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=1400&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
+```
