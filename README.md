@@ -1,3 +1,11 @@
+🌺 FINAL LOVE MESSAGE 🌺
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=1100&height=100&lines=💖+TRUE+LOVE+IS+FOREVER+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1100&height=100&lines=👑+NURNOBI+❤️+SHIMU+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
+
+<div align="center">  👑💖 NURNOBI ❤️ SHIMU 💖👑
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=👑+WELCOME+TO+VIP+LOVE+WORLD+👑;💖+NURNOBI+❤️+SHIMU+💖;🔥+TRUE+LOVE+NEVER+ENDS+🔥" />  
+---
 👑💖 NURNOBI ❤️ SHIMU VIP ANIMATED README 💖👑
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=👑+WELCOME+TO+VIP+LOVE+WORLD+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2200&pause=1000&color=FF1493&center=true&vCenter=true&width=1100&height=100&lines=💖+NURNOBI+❤️+SHIMU+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=90&lines=🔥+TRUE+LOVE+NEVER+ENDS+🔥" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=1800&pause=1000&color=FFD700&center=true&vCenter=true&width=950&height=80&lines=👑+KING+%26+QUEEN+OF+LOVE+👑" />---  🌸💞 OUR LOVE STORY 💞🌸
