@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=1600&height=120&lines=❤️+WELCOME+TO+MY+PERSONAL+PROFILE+❤️" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=1200&pause=300&center=true&vCenter=true&width=1400&height=120&color=FF00FF&lines=🟣+ROCKY+BHAI+OFFICIAL" />
 
+</div>
 
 
 
