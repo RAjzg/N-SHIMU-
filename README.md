@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1100&height=100&lines=👑+NURNOBI+❤️+SHIMU+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1100&height=100&lines=" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
 
 <div align="center">  👑💖 NURNOBI ❤️ SHIMU 💖👑
 
