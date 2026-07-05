@@ -1,7 +1,40 @@
-<div align="center">
+<!-- 🔥 RGB STYLE ANIMATED TITLES -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=1800&pause=700&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=🔴+WELCOME+TO+MY+PERSONAL+PROFILE+🔴;🟢+WELCOME+TO+MY+PERSONAL+PROFILE+🟢;🔵+WELCOME+TO+MY+PERSONAL+PROFILE+🔵;🟣+WELCOME+TO+MY+PERSONAL+PROFILE+🟣;🟡+WELCOME+TO+MY+PERSONAL+PROFILE+🟡;🩷+WELCOME+TO+MY+PERSONAL+PROFILE+🩷;🟠+WELCOME+TO+MY+PERSONAL+PROFILE+🟠;⚡+WELCOME+TO+MY+PERSONAL+PROFILE+⚡" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=1600&height=120&lines=❤️+WELCOME+TO+MY+PERSONAL+PROFILE+❤️" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FF7F00&center=true&vCenter=true&width=1600&height=120&lines=🧡+WELCOME+TO+MY+PERSONAL+PROFILE+🧡" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FFFF00&center=true&vCenter=true&width=1600&height=120&lines=💛+WELCOME+TO+MY+PERSONAL+PROFILE+💛" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=7FFF00&center=true&vCenter=true&width=1600&height=120&lines=💚+WELCOME+TO+MY+PERSONAL+PROFILE+💚" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=1600&height=120&lines=💚+WELCOME+TO+MY+PERSONAL+PROFILE+💚" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=00FF7F&center=true&vCenter=true&width=1600&height=120&lines=💚+WELCOME+TO+MY+PERSONAL+PROFILE+💚" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=00FFFF&center=true&vCenter=true&width=1600&height=120&lines=💙+WELCOME+TO+MY+PERSONAL+PROFILE+💙" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=00BFFF&center=true&vCenter=true&width=1600&height=120&lines=💙+WELCOME+TO+MY+PERSONAL+PROFILE+💙" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=0000FF&center=true&vCenter=true&width=1600&height=120&lines=💙+WELCOME+TO+MY+PERSONAL+PROFILE+💙" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=4B0082&center=true&vCenter=true&width=1600&height=120&lines=💜+WELCOME+TO+MY+PERSONAL+PROFILE+💜" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=8A2BE2&center=true&vCenter=true&width=1600&height=120&lines=💜+WELCOME+TO+MY+PERSONAL+PROFILE+💜" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=9400D3&center=true&vCenter=true&width=1600&height=120&lines=💜+WELCOME+TO+MY+PERSONAL+PROFILE+💜" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FF00FF&center=true&vCenter=true&width=1600&height=120&lines=🩷+WELCOME+TO+MY+PERSONAL+PROFILE+🩷" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FF1493&center=true&vCenter=true&width=1600&height=120&lines=🩷+WELCOME+TO+MY+PERSONAL+PROFILE+🩷" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FFFFFF&center=true&vCenter=true&width=1600&height=120&lines=🤍+WELCOME+TO+MY+PERSONAL+PROFILE+🤍" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=C0C0C0&center=true&vCenter=true&width=1600&height=120&lines=⚪+WELCOME+TO+MY+PERSONAL+PROFILE+⚪" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=1200&pause=300&color=FFD700&center=true&vCenter=true&width=1600&height=120&lines=👑+WELCOME+TO+MY+PERSONAL+PROFILE+👑" />
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
 
