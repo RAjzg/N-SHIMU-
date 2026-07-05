@@ -6,6 +6,30 @@
 </div>
 
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FF0000&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FF7F00&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FFFF00&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=00FF00&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=00FFFF&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=0000FF&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=8A2BE2&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FF00FF&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FF1493&lines=NURNOBI+❤️+SHIMU" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=62&duration=1200&pause=250&center=true&vCenter=true&repeat=true&width=1500&height=120&color=FFD700&lines=NURNOBI+❤️+SHIMU" />
+
+</div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
 
