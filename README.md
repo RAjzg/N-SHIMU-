@@ -21,13 +21,6 @@ Status       : VIP Couple 👑
 Dream        : Marriage & Happy Life 🌸
 Love Power   : Infinity ♾️
 
-
----
-
-💌 ভালোবাসার ছন্দ 💌
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF1493&center=true&vCenter=true&width=1200&lines=💖+নুরনবী+বলে+শিমুকে+তুমি+আমার+প্রাণ+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&lines=🌸+তোমাকে+ছাড়া+অসম্পূর্ণ+আমার+জান+🌸" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=💞+শিমুর+হাসিতে+লুকিয়ে+নুরনবীর+সুখ+💞" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&lines=👑+দুজনের+ভালোবাসা+থাকবে+সারাজীবন+👑" />---
-
 🔥 VIP LOVE STATUS 🔥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2200&pause=1000&color=ADFF2F&center=true&vCenter=true&width=1000&height=90&lines=💖+OFFICIAL+VIP+LOVE+PROFILE+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2200&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&height=90&lines=👑+NURNOBI+❤️+SHIMU+FOREVER+👑" />---
