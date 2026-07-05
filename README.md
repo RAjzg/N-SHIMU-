@@ -38,20 +38,39 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1000&pause=1&color=FF0000&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%92%96+SHIMU+%F0%9F%92%96;%F0%9F%92%99+FOREVER+%F0%9F%92%99;%F0%9F%92%9C+MY+CRUSH+%F0%9F%92%9C;%F0%9F%92%9A+ALWAYS+SMILE+%F0%9F%92%9A" />
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=4&section=footer"/>
-
 </div>
-
 <p align="center">
-
 <a href="#">
 <img src="https://img.shields.io/badge/💖-SHIMU-ff0080?style=for-the-badge"/>
 </a>
-
 <a href="#">
 <img src="https://img.shields.io/badge/❤️-MY%20CRUSH-red?style=for-the-badge"/>
 </a></p>
+<div align="center">
+
+# 📞 CONTACT INFORMATION
+<p>
+<img src="https://img.shields.io/badge/💚%20BIKASH-01715559179-00C853?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/🧡%20NAGAD-01715559179-FF6F00?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/💜%20ROCKET-01715559179-8E24AA?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/📞%20CONTACT-09638027945-2196F3?style=for-the-badge"/>
+</p>
+<h2>
+✨ ROCKY BHAI OFFICIAL NUMBER ✨
+</h2>
+<h3>
+📱 09638027945
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+</div>
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=100&lines=🔥+LOVE+NEVER+ENDS+🔥" /></div>
