@@ -33,6 +33,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1200&pause=800&color=FF0080&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=MY+CRUSH+SHIMU" />
 </h1>
 
+<div align="center">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=2200&pause=800&color=FF0080&center=true&vCenter=true&repeat=true&random=true&width=1000&lines=সর্বকালের+সর্বশ্রেষ্ঠ+সুন্দর+তুমি+আমার;তুমি+ফুল+নও+তবে+ফুলের+চেয়েও+বেশি+মায়াবতী;তুমি+আমার+সর্বকালের+সর্বশ্রেষ্ঠ+রূপবতী;💖+FOREVER+MY+QUEEN+💖" />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&random=true&width=1000&lines=🌹+সর্বকালের+সর্বশ্রেষ্ঠ+সুন্দর+তুমি+আমার;💖+তুমি+ফুল+নও+তবে+ফুলের+চেয়েও+বেশি+মায়াবতী;✨+তুমি+আমার+সর্বকালের+সর্বশ্রেষ্ঠ+রূপবতী;❤️+MY+LOVE+FOREVER+❤️" />
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=MY%20LOVE&fontAlign=50&fontAlignY=38&fontSize=45&color=timeGradient"/>
+</div>
+
+
 <img src="https://i.imgur.com/oDmgHyM.jpeg" width="280"/>
 
 <p align="center">
